@@ -1,4 +1,4 @@
-# list_of_redirects_exporter
+# list-of-redirects-exporter
 
 Listing of redirects on AirTable APPS
 
